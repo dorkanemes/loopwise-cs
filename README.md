@@ -2,7 +2,7 @@
 
 A CS workspace for the 29 (not 30) Loopwise accounts I inherited. It answers one question first: **who do I call on Monday, and what do I say?**
 
-**Live app:** _LIVE_URL_ (no login)
+**Live app:** https://loopwise-cs.vercel.app (no login)
 
 | Page | What it's for |
 |---|---|
