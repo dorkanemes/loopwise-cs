@@ -1,0 +1,1213 @@
+[
+  {
+    "account_id": "ACC-001",
+    "month": "2026-04",
+    "active_users": 218,
+    "sessions": 3848,
+    "projects_created": 89
+  },
+  {
+    "account_id": "ACC-001",
+    "month": "2026-05",
+    "active_users": 205,
+    "sessions": 3965,
+    "projects_created": 92
+  },
+  {
+    "account_id": "ACC-001",
+    "month": "2026-06",
+    "active_users": 181,
+    "sessions": 3396,
+    "projects_created": 80
+  },
+  {
+    "account_id": "ACC-001",
+    "month": "2026-07",
+    "active_users": 160,
+    "sessions": 3381,
+    "projects_created": 60
+  },
+  {
+    "account_id": "ACC-001",
+    "month": "2026-08",
+    "active_users": 142,
+    "sessions": 2805,
+    "projects_created": 50
+  },
+  {
+    "account_id": "ACC-001",
+    "month": "2026-09",
+    "active_users": 124,
+    "sessions": 2560,
+    "projects_created": 45
+  },
+  {
+    "account_id": "ACC-002",
+    "month": "2026-04",
+    "active_users": 104,
+    "sessions": 2202,
+    "projects_created": 41
+  },
+  {
+    "account_id": "ACC-002",
+    "month": "2026-05",
+    "active_users": 106,
+    "sessions": 1887,
+    "projects_created": 32
+  },
+  {
+    "account_id": "ACC-002",
+    "month": "2026-06",
+    "active_users": 103,
+    "sessions": 1646,
+    "projects_created": 39
+  },
+  {
+    "account_id": "ACC-002",
+    "month": "2026-07",
+    "active_users": 101,
+    "sessions": 2033,
+    "projects_created": 36
+  },
+  {
+    "account_id": "ACC-002",
+    "month": "2026-08",
+    "active_users": 97,
+    "sessions": 1844,
+    "projects_created": 30
+  },
+  {
+    "account_id": "ACC-002",
+    "month": "2026-09",
+    "active_users": 94,
+    "sessions": 1374,
+    "projects_created": 29
+  },
+  {
+    "account_id": "ACC-003",
+    "month": "2026-04",
+    "active_users": 71,
+    "sessions": 1148,
+    "projects_created": 22
+  },
+  {
+    "account_id": "ACC-003",
+    "month": "2026-05",
+    "active_users": 70,
+    "sessions": 1282,
+    "projects_created": 19
+  },
+  {
+    "account_id": "ACC-003",
+    "month": "2026-06",
+    "active_users": 66,
+    "sessions": 1046,
+    "projects_created": 26
+  },
+  {
+    "account_id": "ACC-003",
+    "month": "2026-07",
+    "active_users": 63,
+    "sessions": 1238,
+    "projects_created": 17
+  },
+  {
+    "account_id": "ACC-003",
+    "month": "2026-08",
+    "active_users": 59,
+    "sessions": 1018,
+    "projects_created": 21
+  },
+  {
+    "account_id": "ACC-003",
+    "month": "2026-09",
+    "active_users": 56,
+    "sessions": 970,
+    "projects_created": 16
+  },
+  {
+    "account_id": "ACC-004",
+    "month": "2026-04",
+    "active_users": 58,
+    "sessions": 1007,
+    "projects_created": 25
+  },
+  {
+    "account_id": "ACC-004",
+    "month": "2026-05",
+    "active_users": 61,
+    "sessions": 1139,
+    "projects_created": 24
+  },
+  {
+    "account_id": "ACC-004",
+    "month": "2026-06",
+    "active_users": 64,
+    "sessions": 1335,
+    "projects_created": 26
+  },
+  {
+    "account_id": "ACC-004",
+    "month": "2026-07",
+    "active_users": 66,
+    "sessions": 1125,
+    "projects_created": 17
+  },
+  {
+    "account_id": "ACC-004",
+    "month": "2026-08",
+    "active_users": 68,
+    "sessions": 1143,
+    "projects_created": 27
+  },
+  {
+    "account_id": "ACC-004",
+    "month": "2026-09",
+    "active_users": 69,
+    "sessions": 1437,
+    "projects_created": 30
+  },
+  {
+    "account_id": "ACC-005",
+    "month": "2026-04",
+    "active_users": 96,
+    "sessions": 1666,
+    "projects_created": 38
+  },
+  {
+    "account_id": "ACC-005",
+    "month": "2026-05",
+    "active_users": 101,
+    "sessions": 1855,
+    "projects_created": 37
+  },
+  {
+    "account_id": "ACC-005",
+    "month": "2026-06",
+    "active_users": 108,
+    "sessions": 1703,
+    "projects_created": 32
+  },
+  {
+    "account_id": "ACC-005",
+    "month": "2026-07",
+    "active_users": 112,
+    "sessions": 1959,
+    "projects_created": 29
+  },
+  {
+    "account_id": "ACC-005",
+    "month": "2026-08",
+    "active_users": 118,
+    "sessions": 1969,
+    "projects_created": 46
+  },
+  {
+    "account_id": "ACC-005",
+    "month": "2026-09",
+    "active_users": 121,
+    "sessions": 2085,
+    "projects_created": 34
+  },
+  {
+    "account_id": "ACC-006",
+    "month": "2026-04",
+    "active_users": 52,
+    "sessions": 922,
+    "projects_created": 14
+  },
+  {
+    "account_id": "ACC-006",
+    "month": "2026-05",
+    "active_users": 50,
+    "sessions": 949,
+    "projects_created": 13
+  },
+  {
+    "account_id": "ACC-006",
+    "month": "2026-06",
+    "active_users": 47,
+    "sessions": 806,
+    "projects_created": 17
+  },
+  {
+    "account_id": "ACC-006",
+    "month": "2026-07",
+    "active_users": 41,
+    "sessions": 583,
+    "projects_created": 16
+  },
+  {
+    "account_id": "ACC-006",
+    "month": "2026-08",
+    "active_users": 55,
+    "sessions": 830,
+    "projects_created": 19
+  },
+  {
+    "account_id": "ACC-006",
+    "month": "2026-09",
+    "active_users": 57,
+    "sessions": 821,
+    "projects_created": 19
+  },
+  {
+    "account_id": "ACC-007",
+    "month": "2026-04",
+    "active_users": 6,
+    "sessions": 94,
+    "projects_created": 2
+  },
+  {
+    "account_id": "ACC-007",
+    "month": "2026-05",
+    "active_users": 4,
+    "sessions": 80,
+    "projects_created": 1
+  },
+  {
+    "account_id": "ACC-007",
+    "month": "2026-06",
+    "active_users": 3,
+    "sessions": 60,
+    "projects_created": 1
+  },
+  {
+    "account_id": "ACC-007",
+    "month": "2026-07",
+    "active_users": 2,
+    "sessions": 32,
+    "projects_created": 1
+  },
+  {
+    "account_id": "ACC-007",
+    "month": "2026-08",
+    "active_users": 1,
+    "sessions": 14,
+    "projects_created": 0
+  },
+  {
+    "account_id": "ACC-007",
+    "month": "2026-09",
+    "active_users": 1,
+    "sessions": 22,
+    "projects_created": 0
+  },
+  {
+    "account_id": "ACC-008",
+    "month": "2026-04",
+    "active_users": 30,
+    "sessions": 576,
+    "projects_created": 12
+  },
+  {
+    "account_id": "ACC-008",
+    "month": "2026-05",
+    "active_users": 31,
+    "sessions": 596,
+    "projects_created": 12
+  },
+  {
+    "account_id": "ACC-008",
+    "month": "2026-06",
+    "active_users": 29,
+    "sessions": 626,
+    "projects_created": 8
+  },
+  {
+    "account_id": "ACC-008",
+    "month": "2026-07",
+    "active_users": 30,
+    "sessions": 425,
+    "projects_created": 8
+  },
+  {
+    "account_id": "ACC-008",
+    "month": "2026-08",
+    "active_users": 32,
+    "sessions": 480,
+    "projects_created": 12
+  },
+  {
+    "account_id": "ACC-008",
+    "month": "2026-09",
+    "active_users": 31,
+    "sessions": 574,
+    "projects_created": 9
+  },
+  {
+    "account_id": "ACC-009",
+    "month": "2026-04",
+    "active_users": 63,
+    "sessions": 1235,
+    "projects_created": 25
+  },
+  {
+    "account_id": "ACC-009",
+    "month": "2026-05",
+    "active_users": 64,
+    "sessions": 982,
+    "projects_created": 24
+  },
+  {
+    "account_id": "ACC-009",
+    "month": "2026-06",
+    "active_users": 62,
+    "sessions": 1239,
+    "projects_created": 17
+  },
+  {
+    "account_id": "ACC-009",
+    "month": "2026-07",
+    "active_users": 63,
+    "sessions": 1295,
+    "projects_created": 28
+  },
+  {
+    "account_id": "ACC-009",
+    "month": "2026-08",
+    "active_users": 61,
+    "sessions": 907,
+    "projects_created": 16
+  },
+  {
+    "account_id": "ACC-009",
+    "month": "2026-09",
+    "active_users": 60,
+    "sessions": 990,
+    "projects_created": 23
+  },
+  {
+    "account_id": "ACC-010",
+    "month": "2026-04",
+    "active_users": 99,
+    "sessions": 2145,
+    "projects_created": 33
+  },
+  {
+    "account_id": "ACC-010",
+    "month": "2026-05",
+    "active_users": 101,
+    "sessions": 1992,
+    "projects_created": 27
+  },
+  {
+    "account_id": "ACC-010",
+    "month": "2026-06",
+    "active_users": 103,
+    "sessions": 2011,
+    "projects_created": 39
+  },
+  {
+    "account_id": "ACC-010",
+    "month": "2026-07",
+    "active_users": 104,
+    "sessions": 1541,
+    "projects_created": 42
+  },
+  {
+    "account_id": "ACC-010",
+    "month": "2026-08",
+    "active_users": 110,
+    "sessions": 2288,
+    "projects_created": 41
+  },
+  {
+    "account_id": "ACC-010",
+    "month": "2026-09",
+    "active_users": 108,
+    "sessions": 1617,
+    "projects_created": 48
+  },
+  {
+    "account_id": "ACC-011",
+    "month": "2026-04",
+    "active_users": 106,
+    "sessions": 2148,
+    "projects_created": 34
+  },
+  {
+    "account_id": "ACC-011",
+    "month": "2026-05",
+    "active_users": 108,
+    "sessions": 1882,
+    "projects_created": 35
+  },
+  {
+    "account_id": "ACC-011",
+    "month": "2026-06",
+    "active_users": 109,
+    "sessions": 1967,
+    "projects_created": 35
+  },
+  {
+    "account_id": "ACC-011",
+    "month": "2026-07",
+    "active_users": 111,
+    "sessions": 2308,
+    "projects_created": 46
+  },
+  {
+    "account_id": "ACC-011",
+    "month": "2026-08",
+    "active_users": 112,
+    "sessions": 1663,
+    "projects_created": 50
+  },
+  {
+    "account_id": "ACC-011",
+    "month": "2026-09",
+    "active_users": 114,
+    "sessions": 2176,
+    "projects_created": 47
+  },
+  {
+    "account_id": "ACC-012",
+    "month": "2026-04",
+    "active_users": 57,
+    "sessions": 1121,
+    "projects_created": 19
+  },
+  {
+    "account_id": "ACC-012",
+    "month": "2026-05",
+    "active_users": 59,
+    "sessions": 1172,
+    "projects_created": 26
+  },
+  {
+    "account_id": "ACC-012",
+    "month": "2026-06",
+    "active_users": 62,
+    "sessions": 1002,
+    "projects_created": 26
+  },
+  {
+    "account_id": "ACC-012",
+    "month": "2026-07",
+    "active_users": 63,
+    "sessions": 1153,
+    "projects_created": 22
+  },
+  {
+    "account_id": "ACC-012",
+    "month": "2026-08",
+    "active_users": 64,
+    "sessions": 1119,
+    "projects_created": 25
+  },
+  {
+    "account_id": "ACC-012",
+    "month": "2026-09",
+    "active_users": 64,
+    "sessions": 1033,
+    "projects_created": 27
+  },
+  {
+    "account_id": "ACC-013",
+    "month": "2026-04",
+    "active_users": 30,
+    "sessions": 619,
+    "projects_created": 8
+  },
+  {
+    "account_id": "ACC-013",
+    "month": "2026-05",
+    "active_users": 33,
+    "sessions": 695,
+    "projects_created": 10
+  },
+  {
+    "account_id": "ACC-013",
+    "month": "2026-06",
+    "active_users": 34,
+    "sessions": 602,
+    "projects_created": 13
+  },
+  {
+    "account_id": "ACC-013",
+    "month": "2026-07",
+    "active_users": 37,
+    "sessions": 630,
+    "projects_created": 9
+  },
+  {
+    "account_id": "ACC-013",
+    "month": "2026-08",
+    "active_users": 36,
+    "sessions": 749,
+    "projects_created": 10
+  },
+  {
+    "account_id": "ACC-013",
+    "month": "2026-09",
+    "active_users": 35,
+    "sessions": 549,
+    "projects_created": 14
+  },
+  {
+    "account_id": "ACC-014",
+    "month": "2026-04",
+    "active_users": 11,
+    "sessions": 184,
+    "projects_created": 5
+  },
+  {
+    "account_id": "ACC-014",
+    "month": "2026-05",
+    "active_users": 15,
+    "sessions": 294,
+    "projects_created": 5
+  },
+  {
+    "account_id": "ACC-014",
+    "month": "2026-06",
+    "active_users": 14,
+    "sessions": 197,
+    "projects_created": 6
+  },
+  {
+    "account_id": "ACC-014",
+    "month": "2026-08",
+    "active_users": 15,
+    "sessions": 220,
+    "projects_created": 6
+  },
+  {
+    "account_id": "ACC-014",
+    "month": "2026-09",
+    "active_users": 15,
+    "sessions": 269,
+    "projects_created": 6
+  },
+  {
+    "account_id": "ACC-015",
+    "month": "2026-04",
+    "active_users": 40,
+    "sessions": 781,
+    "projects_created": 15
+  },
+  {
+    "account_id": "ACC-015",
+    "month": "2026-05",
+    "active_users": 38,
+    "sessions": 681,
+    "projects_created": 16
+  },
+  {
+    "account_id": "ACC-015",
+    "month": "2026-06",
+    "active_users": 39,
+    "sessions": 575,
+    "projects_created": 11
+  },
+  {
+    "account_id": "ACC-015",
+    "month": "2026-07",
+    "active_users": 38,
+    "sessions": 742,
+    "projects_created": 12
+  },
+  {
+    "account_id": "ACC-015",
+    "month": "2026-08",
+    "active_users": 41,
+    "sessions": 765,
+    "projects_created": 14
+  },
+  {
+    "account_id": "ACC-015",
+    "month": "2026-09",
+    "active_users": 40,
+    "sessions": 730,
+    "projects_created": 13
+  },
+  {
+    "account_id": "ACC-016",
+    "month": "2026-04",
+    "active_users": 77,
+    "sessions": 1537,
+    "projects_created": 24
+  },
+  {
+    "account_id": "ACC-016",
+    "month": "2026-05",
+    "active_users": 80,
+    "sessions": 1570,
+    "projects_created": 24
+  },
+  {
+    "account_id": "ACC-016",
+    "month": "2026-06",
+    "active_users": 79,
+    "sessions": 1265,
+    "projects_created": 22
+  },
+  {
+    "account_id": "ACC-016",
+    "month": "2026-07",
+    "active_users": 85,
+    "sessions": 1321,
+    "projects_created": 23
+  },
+  {
+    "account_id": "ACC-016",
+    "month": "2026-08",
+    "active_users": 83,
+    "sessions": 1518,
+    "projects_created": 33
+  },
+  {
+    "account_id": "ACC-016",
+    "month": "2026-09",
+    "active_users": 88,
+    "sessions": 1362,
+    "projects_created": 26
+  },
+  {
+    "account_id": "ACC-017",
+    "month": "2026-04",
+    "active_users": 38,
+    "sessions": 679,
+    "projects_created": 15
+  },
+  {
+    "account_id": "ACC-017",
+    "month": "2026-05",
+    "active_users": 39,
+    "sessions": 851,
+    "projects_created": 14
+  },
+  {
+    "account_id": "ACC-017",
+    "month": "2026-06",
+    "active_users": 40,
+    "sessions": 651,
+    "projects_created": 11
+  },
+  {
+    "account_id": "ACC-017",
+    "month": "2026-07",
+    "active_users": 39,
+    "sessions": 607,
+    "projects_created": 12
+  },
+  {
+    "account_id": "ACC-017",
+    "month": "2026-08",
+    "active_users": 41,
+    "sessions": 633,
+    "projects_created": 10
+  },
+  {
+    "account_id": "ACC-017",
+    "month": "2026-09",
+    "active_users": 40,
+    "sessions": 731,
+    "projects_created": 12
+  },
+  {
+    "account_id": "ACC-018",
+    "month": "2026-04",
+    "active_users": 63,
+    "sessions": 1373,
+    "projects_created": 23
+  },
+  {
+    "account_id": "ACC-018",
+    "month": "2026-05",
+    "active_users": 58,
+    "sessions": 1136,
+    "projects_created": 16
+  },
+  {
+    "account_id": "ACC-018",
+    "month": "2026-06",
+    "active_users": 57,
+    "sessions": 1194,
+    "projects_created": 20
+  },
+  {
+    "account_id": "ACC-018",
+    "month": "2026-07",
+    "active_users": 54,
+    "sessions": 1133,
+    "projects_created": 20
+  },
+  {
+    "account_id": "ACC-018",
+    "month": "2026-08",
+    "active_users": 53,
+    "sessions": 941,
+    "projects_created": 18
+  },
+  {
+    "account_id": "ACC-018",
+    "month": "2026-09",
+    "active_users": 50,
+    "sessions": 774,
+    "projects_created": 13
+  },
+  {
+    "account_id": "ACC-019",
+    "month": "2026-04",
+    "active_users": 29,
+    "sessions": 624,
+    "projects_created": 10
+  },
+  {
+    "account_id": "ACC-019",
+    "month": "2026-05",
+    "active_users": 27,
+    "sessions": 556,
+    "projects_created": 9
+  },
+  {
+    "account_id": "ACC-019",
+    "month": "2026-06",
+    "active_users": 29,
+    "sessions": 423,
+    "projects_created": 11
+  },
+  {
+    "account_id": "ACC-019",
+    "month": "2026-07",
+    "active_users": 28,
+    "sessions": 404,
+    "projects_created": 8
+  },
+  {
+    "account_id": "ACC-019",
+    "month": "2026-08",
+    "active_users": 28,
+    "sessions": 518,
+    "projects_created": 9
+  },
+  {
+    "account_id": "ACC-019",
+    "month": "2026-09",
+    "active_users": 25,
+    "sessions": 549,
+    "projects_created": 7
+  },
+  {
+    "account_id": "ACC-020",
+    "month": "2026-04",
+    "active_users": 10,
+    "sessions": 201,
+    "projects_created": 4
+  },
+  {
+    "account_id": "ACC-020",
+    "month": "2026-05",
+    "active_users": 12,
+    "sessions": 244,
+    "projects_created": 4
+  },
+  {
+    "account_id": "ACC-020",
+    "month": "2026-06",
+    "active_users": 11,
+    "sessions": 200,
+    "projects_created": 4
+  },
+  {
+    "account_id": "ACC-020",
+    "month": "2026-07",
+    "active_users": 11,
+    "sessions": 193,
+    "projects_created": 5
+  },
+  {
+    "account_id": "ACC-020",
+    "month": "2026-08",
+    "active_users": 10,
+    "sessions": 219,
+    "projects_created": 3
+  },
+  {
+    "account_id": "ACC-020",
+    "month": "2026-09",
+    "active_users": 9,
+    "sessions": 171,
+    "projects_created": 3
+  },
+  {
+    "account_id": "ACC-021",
+    "month": "2026-04",
+    "active_users": 44,
+    "sessions": 877,
+    "projects_created": 19
+  },
+  {
+    "account_id": "ACC-021",
+    "month": "2026-05",
+    "active_users": 44,
+    "sessions": 689,
+    "projects_created": 13
+  },
+  {
+    "account_id": "ACC-021",
+    "month": "2026-06",
+    "active_users": 46,
+    "sessions": 887,
+    "projects_created": 13
+  },
+  {
+    "account_id": "ACC-021",
+    "month": "2026-07",
+    "active_users": 46,
+    "sessions": 708,
+    "projects_created": 12
+  },
+  {
+    "account_id": "ACC-021",
+    "month": "2026-08",
+    "active_users": 49,
+    "sessions": 687,
+    "projects_created": 17
+  },
+  {
+    "account_id": "ACC-021",
+    "month": "2026-09",
+    "active_users": 50,
+    "sessions": 938,
+    "projects_created": 15
+  },
+  {
+    "account_id": "ACC-022",
+    "month": "2026-04",
+    "active_users": 17,
+    "sessions": 269,
+    "projects_created": 7
+  },
+  {
+    "account_id": "ACC-022",
+    "month": "2026-05",
+    "active_users": 15,
+    "sessions": 294,
+    "projects_created": 5
+  },
+  {
+    "account_id": "ACC-022",
+    "month": "2026-06",
+    "active_users": 18,
+    "sessions": 351,
+    "projects_created": 8
+  },
+  {
+    "account_id": "ACC-022",
+    "month": "2026-07",
+    "active_users": 14,
+    "sessions": 284,
+    "projects_created": 5
+  },
+  {
+    "account_id": "ACC-022",
+    "month": "2026-08",
+    "active_users": 15,
+    "sessions": 289,
+    "projects_created": 7
+  },
+  {
+    "account_id": "ACC-022",
+    "month": "2026-09",
+    "active_users": 19,
+    "sessions": 331,
+    "projects_created": 7
+  },
+  {
+    "account_id": "ACC-023",
+    "month": "2026-04",
+    "active_users": 64,
+    "sessions": 1228,
+    "projects_created": 28
+  },
+  {
+    "account_id": "ACC-023",
+    "month": "2026-05",
+    "active_users": 68,
+    "sessions": 1402,
+    "projects_created": 18
+  },
+  {
+    "account_id": "ACC-023",
+    "month": "2026-06",
+    "active_users": 67,
+    "sessions": 1027,
+    "projects_created": 21
+  },
+  {
+    "account_id": "ACC-023",
+    "month": "2026-07",
+    "active_users": 71,
+    "sessions": 1419,
+    "projects_created": 26
+  },
+  {
+    "account_id": "ACC-023",
+    "month": "2026-08",
+    "active_users": 75,
+    "sessions": 1223,
+    "projects_created": 21
+  },
+  {
+    "account_id": "ACC-023",
+    "month": "2026-09",
+    "active_users": 74,
+    "sessions": 1444,
+    "projects_created": 29
+  },
+  {
+    "account_id": "ACC-024",
+    "month": "2026-04",
+    "active_users": 31,
+    "sessions": 668,
+    "projects_created": 11
+  },
+  {
+    "account_id": "ACC-024",
+    "month": "2026-05",
+    "active_users": 27,
+    "sessions": 485,
+    "projects_created": 7
+  },
+  {
+    "account_id": "ACC-024",
+    "month": "2026-06",
+    "active_users": 27,
+    "sessions": 387,
+    "projects_created": 9
+  },
+  {
+    "account_id": "ACC-024",
+    "month": "2026-07",
+    "active_users": 27,
+    "sessions": 448,
+    "projects_created": 8
+  },
+  {
+    "account_id": "ACC-024",
+    "month": "2026-08",
+    "active_users": 26,
+    "sessions": 383,
+    "projects_created": 12
+  },
+  {
+    "account_id": "ACC-024",
+    "month": "2026-09",
+    "active_users": 28,
+    "sessions": 579,
+    "projects_created": 10
+  },
+  {
+    "account_id": "ACC-025",
+    "month": "2026-04",
+    "active_users": 7,
+    "sessions": 151,
+    "projects_created": 3
+  },
+  {
+    "account_id": "ACC-025",
+    "month": "2026-05",
+    "active_users": 7,
+    "sessions": 136,
+    "projects_created": 2
+  },
+  {
+    "account_id": "ACC-025",
+    "month": "2026-06",
+    "active_users": 6,
+    "sessions": 86,
+    "projects_created": 2
+  },
+  {
+    "account_id": "ACC-025",
+    "month": "2026-07",
+    "active_users": 5,
+    "sessions": 89,
+    "projects_created": 2
+  },
+  {
+    "account_id": "ACC-025",
+    "month": "2026-08",
+    "active_users": 6,
+    "sessions": 128,
+    "projects_created": 2
+  },
+  {
+    "account_id": "ACC-025",
+    "month": "2026-09",
+    "active_users": 9,
+    "sessions": 168,
+    "projects_created": 3
+  },
+  {
+    "account_id": "ACC-026",
+    "month": "2026-04",
+    "active_users": 27,
+    "sessions": 484,
+    "projects_created": 7
+  },
+  {
+    "account_id": "ACC-026",
+    "month": "2026-05",
+    "active_users": 24,
+    "sessions": 403,
+    "projects_created": 8
+  },
+  {
+    "account_id": "ACC-026",
+    "month": "2026-06",
+    "active_users": 24,
+    "sessions": 465,
+    "projects_created": 10
+  },
+  {
+    "account_id": "ACC-026",
+    "month": "2026-07",
+    "active_users": 27,
+    "sessions": 449,
+    "projects_created": 10
+  },
+  {
+    "account_id": "ACC-026",
+    "month": "2026-08",
+    "active_users": 28,
+    "sessions": 457,
+    "projects_created": 12
+  },
+  {
+    "account_id": "ACC-026",
+    "month": "2026-09",
+    "active_users": 25,
+    "sessions": 513,
+    "projects_created": 9
+  },
+  {
+    "account_id": "ACC-027",
+    "month": "2026-04",
+    "active_users": 34,
+    "sessions": 600,
+    "projects_created": 11
+  },
+  {
+    "account_id": "ACC-027",
+    "month": "2026-05",
+    "active_users": 34,
+    "sessions": 564,
+    "projects_created": 15
+  },
+  {
+    "account_id": "ACC-027",
+    "month": "2026-06",
+    "active_users": 35,
+    "sessions": 603,
+    "projects_created": 12
+  },
+  {
+    "account_id": "ACC-027",
+    "month": "2026-07",
+    "active_users": 33,
+    "sessions": 723,
+    "projects_created": 13
+  },
+  {
+    "account_id": "ACC-027",
+    "month": "2026-08",
+    "active_users": 33,
+    "sessions": 605,
+    "projects_created": 11
+  },
+  {
+    "account_id": "ACC-027",
+    "month": "2026-09",
+    "active_users": 34,
+    "sessions": 527,
+    "projects_created": 11
+  },
+  {
+    "account_id": "ACC-028",
+    "month": "2026-04",
+    "active_users": 17,
+    "sessions": 341,
+    "projects_created": 6
+  },
+  {
+    "account_id": "ACC-028",
+    "month": "2026-05",
+    "active_users": 21,
+    "sessions": 422,
+    "projects_created": 6
+  },
+  {
+    "account_id": "ACC-028",
+    "month": "2026-06",
+    "active_users": 22,
+    "sessions": 405,
+    "projects_created": 10
+  },
+  {
+    "account_id": "ACC-028",
+    "month": "2026-07",
+    "active_users": 19,
+    "sessions": 333,
+    "projects_created": 7
+  },
+  {
+    "account_id": "ACC-028",
+    "month": "2026-08",
+    "active_users": 23,
+    "sessions": 344,
+    "projects_created": 10
+  },
+  {
+    "account_id": "ACC-028",
+    "month": "2026-09",
+    "active_users": 20,
+    "sessions": 377,
+    "projects_created": 6
+  },
+  {
+    "account_id": "ACC-030",
+    "month": "2026-04",
+    "active_users": 16,
+    "sessions": 244,
+    "projects_created": 6
+  },
+  {
+    "account_id": "ACC-030",
+    "month": "2026-05",
+    "active_users": 14,
+    "sessions": 258,
+    "projects_created": 4
+  },
+  {
+    "account_id": "ACC-030",
+    "month": "2026-06",
+    "active_users": 18,
+    "sessions": 395,
+    "projects_created": 8
+  },
+  {
+    "account_id": "ACC-030",
+    "month": "2026-07",
+    "active_users": 15,
+    "sessions": 265,
+    "projects_created": 4
+  },
+  {
+    "account_id": "ACC-030",
+    "month": "2026-08",
+    "active_users": 16,
+    "sessions": 331,
+    "projects_created": 6
+  },
+  {
+    "account_id": "ACC-030",
+    "month": "2026-09",
+    "active_users": 17,
+    "sessions": 335,
+    "projects_created": 6
+  }
+]

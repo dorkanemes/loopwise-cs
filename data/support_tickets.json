@@ -1,0 +1,822 @@
+[
+  {
+    "ticket_id": "TCK-0001",
+    "account_id": "ACC-023",
+    "opened_date": "2026-04-01",
+    "priority": "normal",
+    "category": "access",
+    "status": "closed",
+    "resolved_date": "2026-04-03",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0002",
+    "account_id": "ACC-012",
+    "opened_date": "2026-04-03",
+    "priority": "low",
+    "category": "feature_request",
+    "status": "closed",
+    "resolved_date": "2026-04-09",
+    "csat": 5
+  },
+  {
+    "ticket_id": "TCK-0003",
+    "account_id": "ACC-022",
+    "opened_date": "2026-04-06",
+    "priority": "low",
+    "category": "access",
+    "status": "closed",
+    "resolved_date": "2026-04-09",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0004",
+    "account_id": "ACC-005",
+    "opened_date": "2026-04-10",
+    "priority": "normal",
+    "category": "feature_request",
+    "status": "closed",
+    "resolved_date": "2026-04-12",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0005",
+    "account_id": "ACC-018",
+    "opened_date": "2026-04-12",
+    "priority": "low",
+    "category": "integration",
+    "status": "closed",
+    "resolved_date": "2026-04-16",
+    "csat": 3
+  },
+  {
+    "ticket_id": "TCK-0006",
+    "account_id": "ACC-021",
+    "opened_date": "2026-04-16",
+    "priority": "high",
+    "category": "integration",
+    "status": "closed",
+    "resolved_date": "2026-04-18",
+    "csat": 3
+  },
+  {
+    "ticket_id": "TCK-0007",
+    "account_id": "ACC-005",
+    "opened_date": "2026-04-18",
+    "priority": "normal",
+    "category": "feature_request",
+    "status": "closed",
+    "resolved_date": "2026-04-20",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0008",
+    "account_id": "ACC-005",
+    "opened_date": "2026-04-21",
+    "priority": "normal",
+    "category": "how_to",
+    "status": "closed",
+    "resolved_date": "2026-04-24",
+    "csat": 5
+  },
+  {
+    "ticket_id": "TCK-0009",
+    "account_id": "ACC-009",
+    "opened_date": "2026-04-21",
+    "priority": "normal",
+    "category": "feature_request",
+    "status": "closed",
+    "resolved_date": "2026-04-23",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0010",
+    "account_id": "ACC-005",
+    "opened_date": "2026-04-24",
+    "priority": "low",
+    "category": "how_to",
+    "status": "closed",
+    "resolved_date": "2026-04-24",
+    "csat": 5
+  },
+  {
+    "ticket_id": "TCK-0011",
+    "account_id": "ACC-022",
+    "opened_date": "2026-04-24",
+    "priority": "normal",
+    "category": "performance",
+    "status": "closed",
+    "resolved_date": "2026-04-30",
+    "csat": 5
+  },
+  {
+    "ticket_id": "TCK-0012",
+    "account_id": "ACC-021",
+    "opened_date": "2026-04-26",
+    "priority": "normal",
+    "category": "feature_request",
+    "status": "closed",
+    "resolved_date": "2026-05-02",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0013",
+    "account_id": "ACC-030",
+    "opened_date": "2026-04-26",
+    "priority": "low",
+    "category": "access",
+    "status": "closed",
+    "resolved_date": "2026-05-02",
+    "csat": 5
+  },
+  {
+    "ticket_id": "TCK-0014",
+    "account_id": "ACC-022",
+    "opened_date": "2026-05-03",
+    "priority": "normal",
+    "category": "how_to",
+    "status": "closed",
+    "resolved_date": "2026-05-08",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0015",
+    "account_id": "ACC-004",
+    "opened_date": "2026-05-05",
+    "priority": "low",
+    "category": "integration",
+    "status": "closed",
+    "resolved_date": "2026-05-09",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0016",
+    "account_id": "ACC-002",
+    "opened_date": "2026-05-06",
+    "priority": "low",
+    "category": "how_to",
+    "status": "closed",
+    "resolved_date": "2026-05-07",
+    "csat": 5
+  },
+  {
+    "ticket_id": "TCK-0017",
+    "account_id": "ACC-010",
+    "opened_date": "2026-05-07",
+    "priority": "normal",
+    "category": "billing",
+    "status": "closed",
+    "resolved_date": "2026-05-13",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0018",
+    "account_id": "ACC-005",
+    "opened_date": "2026-05-13",
+    "priority": "low",
+    "category": "how_to",
+    "status": "closed",
+    "resolved_date": "2026-05-13",
+    "csat": 5
+  },
+  {
+    "ticket_id": "TCK-0019",
+    "account_id": "ACC-013",
+    "opened_date": "2026-05-19",
+    "priority": "normal",
+    "category": "performance",
+    "status": "closed",
+    "resolved_date": "2026-05-25",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0020",
+    "account_id": "ACC-021",
+    "opened_date": "2026-05-26",
+    "priority": "high",
+    "category": "billing",
+    "status": "closed",
+    "resolved_date": "2026-05-28",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0021",
+    "account_id": "ACC-023",
+    "opened_date": "2026-05-26",
+    "priority": "normal",
+    "category": "integration",
+    "status": "closed",
+    "resolved_date": "2026-05-28",
+    "csat": 5
+  },
+  {
+    "ticket_id": "TCK-0022",
+    "account_id": "ACC-017",
+    "opened_date": "2026-05-30",
+    "priority": "normal",
+    "category": "how_to",
+    "status": "closed",
+    "resolved_date": "2026-06-04",
+    "csat": 5
+  },
+  {
+    "ticket_id": "TCK-0023",
+    "account_id": "ACC-011",
+    "opened_date": "2026-05-31",
+    "priority": "high",
+    "category": "feature_request",
+    "status": "closed",
+    "resolved_date": "2026-06-03",
+    "csat": 5
+  },
+  {
+    "ticket_id": "TCK-0024",
+    "account_id": "ACC-010",
+    "opened_date": "2026-06-13",
+    "priority": "normal",
+    "category": "how_to",
+    "status": "closed",
+    "resolved_date": "2026-06-17",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0025",
+    "account_id": "ACC-012",
+    "opened_date": "2026-06-13",
+    "priority": "normal",
+    "category": "feature_request",
+    "status": "closed",
+    "resolved_date": "2026-06-16",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0026",
+    "account_id": "ACC-007",
+    "opened_date": "2026-06-15",
+    "priority": "normal",
+    "category": "integration",
+    "status": "closed",
+    "resolved_date": "2026-06-19",
+    "csat": 3
+  },
+  {
+    "ticket_id": "TCK-0027",
+    "account_id": "ACC-011",
+    "opened_date": "2026-06-15",
+    "priority": "normal",
+    "category": "how_to",
+    "status": "closed",
+    "resolved_date": "2026-06-21",
+    "csat": 5
+  },
+  {
+    "ticket_id": "TCK-0028",
+    "account_id": "ACC-030",
+    "opened_date": "2026-06-15",
+    "priority": "high",
+    "category": "feature_request",
+    "status": "closed",
+    "resolved_date": "2026-06-20",
+    "csat": 5
+  },
+  {
+    "ticket_id": "TCK-0029",
+    "account_id": "ACC-004",
+    "opened_date": "2026-06-16",
+    "priority": "normal",
+    "category": "access",
+    "status": "closed",
+    "resolved_date": "2026-06-18",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0030",
+    "account_id": "ACC-011",
+    "opened_date": "2026-06-17",
+    "priority": "normal",
+    "category": "billing",
+    "status": "closed",
+    "resolved_date": "2026-06-21",
+    "csat": 3
+  },
+  {
+    "ticket_id": "TCK-0031",
+    "account_id": "ACC-027",
+    "opened_date": "2026-06-17",
+    "priority": "high",
+    "category": "performance",
+    "status": "closed",
+    "resolved_date": "2026-06-18",
+    "csat": 3
+  },
+  {
+    "ticket_id": "TCK-0032",
+    "account_id": "ACC-013",
+    "opened_date": "2026-06-19",
+    "priority": "high",
+    "category": "how_to",
+    "status": "closed",
+    "resolved_date": "2026-06-24",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0033",
+    "account_id": "ACC-002",
+    "opened_date": "2026-06-22",
+    "priority": "normal",
+    "category": "access",
+    "status": "closed",
+    "resolved_date": "2026-06-24",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0034",
+    "account_id": "ACC-013",
+    "opened_date": "2026-06-23",
+    "priority": "high",
+    "category": "bug",
+    "status": "closed",
+    "resolved_date": "2026-06-25",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0035",
+    "account_id": "ACC-017",
+    "opened_date": "2026-06-23",
+    "priority": "low",
+    "category": "performance",
+    "status": "closed",
+    "resolved_date": "2026-06-24",
+    "csat": 5
+  },
+  {
+    "ticket_id": "TCK-0036",
+    "account_id": "ACC-027",
+    "opened_date": "2026-07-02",
+    "priority": "low",
+    "category": "billing",
+    "status": "closed",
+    "resolved_date": "2026-07-07",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0037",
+    "account_id": "ACC-014",
+    "opened_date": "2026-07-03",
+    "priority": "normal",
+    "category": "access",
+    "status": "closed",
+    "resolved_date": "2026-07-05",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0038",
+    "account_id": "ACC-005",
+    "opened_date": "2026-07-07",
+    "priority": "normal",
+    "category": "how_to",
+    "status": "closed",
+    "resolved_date": "2026-07-08",
+    "csat": 5
+  },
+  {
+    "ticket_id": "TCK-0039",
+    "account_id": "ACC-028",
+    "opened_date": "2026-07-12",
+    "priority": "high",
+    "category": "performance",
+    "status": "closed",
+    "resolved_date": "2026-07-13",
+    "csat": 5
+  },
+  {
+    "ticket_id": "TCK-0040",
+    "account_id": "ACC-005",
+    "opened_date": "2026-07-15",
+    "priority": "normal",
+    "category": "feature_request",
+    "status": "closed",
+    "resolved_date": "2026-07-18",
+    "csat": 5
+  },
+  {
+    "ticket_id": "TCK-0041",
+    "account_id": "ACC-003",
+    "opened_date": "2026-07-16",
+    "priority": "normal",
+    "category": "billing",
+    "status": "closed",
+    "resolved_date": "2026-07-18",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0042",
+    "account_id": "ACC-005",
+    "opened_date": "2026-07-22",
+    "priority": "normal",
+    "category": "feature_request",
+    "status": "closed",
+    "resolved_date": "2026-07-25",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0043",
+    "account_id": "ACC-010",
+    "opened_date": "2026-07-27",
+    "priority": "normal",
+    "category": "performance",
+    "status": "closed",
+    "resolved_date": "2026-07-28",
+    "csat": 5
+  },
+  {
+    "ticket_id": "TCK-0044",
+    "account_id": "ACC-017",
+    "opened_date": "2026-07-28",
+    "priority": "normal",
+    "category": "performance",
+    "status": "closed",
+    "resolved_date": "2026-08-01",
+    "csat": 3
+  },
+  {
+    "ticket_id": "TCK-0045",
+    "account_id": "ACC-014",
+    "opened_date": "2026-07-29",
+    "priority": "low",
+    "category": "bug",
+    "status": "closed",
+    "resolved_date": "2026-07-31",
+    "csat": 5
+  },
+  {
+    "ticket_id": "TCK-0046",
+    "account_id": "ACC-005",
+    "opened_date": "2026-07-30",
+    "priority": "normal",
+    "category": "how_to",
+    "status": "closed",
+    "resolved_date": "2026-08-02",
+    "csat": 5
+  },
+  {
+    "ticket_id": "TCK-0047",
+    "account_id": "ACC-014",
+    "opened_date": "2026-08-02",
+    "priority": "normal",
+    "category": "performance",
+    "status": "closed",
+    "resolved_date": "2026-08-05",
+    "csat": 3
+  },
+  {
+    "ticket_id": "TCK-0048",
+    "account_id": "ACC-021",
+    "opened_date": "2026-08-04",
+    "priority": "high",
+    "category": "integration",
+    "status": "closed",
+    "resolved_date": "2026-08-05",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0049",
+    "account_id": "ACC-004",
+    "opened_date": "2026-08-08",
+    "priority": "normal",
+    "category": "access",
+    "status": "closed",
+    "resolved_date": "2026-08-09",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0050",
+    "account_id": "ACC-008",
+    "opened_date": "2026-08-14",
+    "priority": "normal",
+    "category": "feature_request",
+    "status": "closed",
+    "resolved_date": "2026-08-16",
+    "csat": 3
+  },
+  {
+    "ticket_id": "TCK-0051",
+    "account_id": "ACC-005",
+    "opened_date": "2026-08-16",
+    "priority": "normal",
+    "category": "how_to",
+    "status": "closed",
+    "resolved_date": "2026-08-18",
+    "csat": 5
+  },
+  {
+    "ticket_id": "TCK-0052",
+    "account_id": "ACC-015",
+    "opened_date": "2026-08-16",
+    "priority": "low",
+    "category": "billing",
+    "status": "closed",
+    "resolved_date": "2026-08-19",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0053",
+    "account_id": "ACC-020",
+    "opened_date": "2026-08-16",
+    "priority": "normal",
+    "category": "billing",
+    "status": "closed",
+    "resolved_date": "2026-08-20",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0054",
+    "account_id": "ACC-002",
+    "opened_date": "2026-08-17",
+    "priority": "high",
+    "category": "performance",
+    "status": "closed",
+    "resolved_date": "2026-08-23",
+    "csat": 2
+  },
+  {
+    "ticket_id": "TCK-0055",
+    "account_id": "ACC-023",
+    "opened_date": "2026-08-17",
+    "priority": "normal",
+    "category": "access",
+    "status": "closed",
+    "resolved_date": "2026-08-19",
+    "csat": 3
+  },
+  {
+    "ticket_id": "TCK-0056",
+    "account_id": "ACC-005",
+    "opened_date": "2026-08-18",
+    "priority": "normal",
+    "category": "how_to",
+    "status": "closed",
+    "resolved_date": "2026-08-20",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0057",
+    "account_id": "ACC-003",
+    "opened_date": "2026-08-20",
+    "priority": "low",
+    "category": "billing",
+    "status": "closed",
+    "resolved_date": "2026-08-22",
+    "csat": 5
+  },
+  {
+    "ticket_id": "TCK-0058",
+    "account_id": "ACC-014",
+    "opened_date": "2026-08-21",
+    "priority": "normal",
+    "category": "how_to",
+    "status": "closed",
+    "resolved_date": "2026-08-25",
+    "csat": 3
+  },
+  {
+    "ticket_id": "TCK-0059",
+    "account_id": "ACC-002",
+    "opened_date": "2026-08-24",
+    "priority": "urgent",
+    "category": "bug",
+    "status": "closed",
+    "resolved_date": "2026-08-28",
+    "csat": 2
+  },
+  {
+    "ticket_id": "TCK-0060",
+    "account_id": "ACC-015",
+    "opened_date": "2026-08-28",
+    "priority": "high",
+    "category": "access",
+    "status": "closed",
+    "resolved_date": "2026-09-03",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0061",
+    "account_id": "ACC-002",
+    "opened_date": "2026-08-29",
+    "priority": "high",
+    "category": "integration",
+    "status": "closed",
+    "resolved_date": "2026-09-07",
+    "csat": 3
+  },
+  {
+    "ticket_id": "TCK-0062",
+    "account_id": "ACC-010",
+    "opened_date": "2026-08-29",
+    "priority": "normal",
+    "category": "performance",
+    "status": "closed",
+    "resolved_date": "2026-09-02",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0063",
+    "account_id": "ACC-024",
+    "opened_date": "2026-08-29",
+    "priority": "normal",
+    "category": "how_to",
+    "status": "closed",
+    "resolved_date": "2026-08-31",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0064",
+    "account_id": "ACC-002",
+    "opened_date": "2026-09-03",
+    "priority": "urgent",
+    "category": "performance",
+    "status": "closed",
+    "resolved_date": "2026-09-08",
+    "csat": 1
+  },
+  {
+    "ticket_id": "TCK-0065",
+    "account_id": "ACC-028",
+    "opened_date": "2026-09-03",
+    "priority": "normal",
+    "category": "how_to",
+    "status": "closed",
+    "resolved_date": "2026-09-05",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0066",
+    "account_id": "ACC-027",
+    "opened_date": "2026-09-05",
+    "priority": "low",
+    "category": "performance",
+    "status": "closed",
+    "resolved_date": "2026-09-11",
+    "csat": 5
+  },
+  {
+    "ticket_id": "TCK-0067",
+    "account_id": "ACC-005",
+    "opened_date": "2026-09-08",
+    "priority": "normal",
+    "category": "how_to",
+    "status": "closed",
+    "resolved_date": "2026-09-08",
+    "csat": 5
+  },
+  {
+    "ticket_id": "TCK-0068",
+    "account_id": "ACC-013",
+    "opened_date": "2026-09-08",
+    "priority": "low",
+    "category": "performance",
+    "status": "closed",
+    "resolved_date": "2026-09-14",
+    "csat": 3
+  },
+  {
+    "ticket_id": "TCK-0069",
+    "account_id": "ACC-002",
+    "opened_date": "2026-09-10",
+    "priority": "normal",
+    "category": "bug",
+    "status": "closed",
+    "resolved_date": "2026-09-13",
+    "csat": 3
+  },
+  {
+    "ticket_id": "TCK-0070",
+    "account_id": "ACC-030",
+    "opened_date": "2026-09-10",
+    "priority": "normal",
+    "category": "billing",
+    "status": "closed",
+    "resolved_date": "2026-09-15",
+    "csat": 5
+  },
+  {
+    "ticket_id": "TCK-0071",
+    "account_id": "ACC-023",
+    "opened_date": "2026-09-17",
+    "priority": "low",
+    "category": "bug",
+    "status": "closed",
+    "resolved_date": "2026-09-18",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0072",
+    "account_id": "ACC-002",
+    "opened_date": "2026-09-18",
+    "priority": "high",
+    "category": "integration",
+    "status": "open",
+    "resolved_date": null,
+    "csat": null
+  },
+  {
+    "ticket_id": "TCK-0073",
+    "account_id": "ACC-002",
+    "opened_date": "2026-09-25",
+    "priority": "urgent",
+    "category": "bug",
+    "status": "open",
+    "resolved_date": null,
+    "csat": null
+  },
+  {
+    "ticket_id": "TCK-0074",
+    "account_id": "ACC-005",
+    "opened_date": "2026-09-26",
+    "priority": "normal",
+    "category": "feature_request",
+    "status": "closed",
+    "resolved_date": "2026-09-29",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0075",
+    "account_id": "ACC-028",
+    "opened_date": "2026-09-30",
+    "priority": "high",
+    "category": "how_to",
+    "status": "closed",
+    "resolved_date": "2026-10-01",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0076",
+    "account_id": "ACC-002",
+    "opened_date": "2026-10-02",
+    "priority": "high",
+    "category": "performance",
+    "status": "pending",
+    "resolved_date": null,
+    "csat": null
+  },
+  {
+    "ticket_id": "TCK-0077",
+    "account_id": "ACC-005",
+    "opened_date": "2026-10-02",
+    "priority": "normal",
+    "category": "feature_request",
+    "status": "closed",
+    "resolved_date": "2026-10-03",
+    "csat": 4
+  },
+  {
+    "ticket_id": "TCK-0078",
+    "account_id": "ACC-030",
+    "opened_date": "2026-10-02",
+    "priority": "high",
+    "category": "billing",
+    "status": "open",
+    "resolved_date": null,
+    "csat": null
+  },
+  {
+    "ticket_id": "TCK-0079",
+    "account_id": "ACC-013",
+    "opened_date": "2026-10-05",
+    "priority": "low",
+    "category": "integration",
+    "status": "open",
+    "resolved_date": null,
+    "csat": null
+  },
+  {
+    "ticket_id": "TCK-0080",
+    "account_id": "ACC-002",
+    "opened_date": "2026-10-07",
+    "priority": "normal",
+    "category": "access",
+    "status": "open",
+    "resolved_date": null,
+    "csat": null
+  },
+  {
+    "ticket_id": "TCK-0081",
+    "account_id": "ACC-026",
+    "opened_date": "2026-10-07",
+    "priority": "low",
+    "category": "performance",
+    "status": "closed",
+    "resolved_date": "2026-10-08",
+    "csat": 5
+  },
+  {
+    "ticket_id": "TCK-0082",
+    "account_id": "ACC-021",
+    "opened_date": "2026-10-08",
+    "priority": "normal",
+    "category": "billing",
+    "status": "closed",
+    "resolved_date": "2026-10-12",
+    "csat": 3
+  }
+]

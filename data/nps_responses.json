@@ -1,0 +1,306 @@
+[
+  {
+    "response_id": "NPS-001",
+    "account_id": "ACC-001",
+    "contact_id": "CON-001",
+    "response_date": "2026-04-14",
+    "score": 8,
+    "comment": "Solid tool, team relies on it for weekly planning."
+  },
+  {
+    "response_id": "NPS-002",
+    "account_id": "ACC-002",
+    "contact_id": "CON-007",
+    "response_date": "2026-08-11",
+    "score": 10,
+    "comment": "Love it. Rolling it out to two more departments."
+  },
+  {
+    "response_id": "NPS-003",
+    "account_id": "ACC-003",
+    "contact_id": "CON-011",
+    "response_date": "2026-04-16",
+    "score": 9,
+    "comment": "Dana here - our team would be lost without Loopwise."
+  },
+  {
+    "response_id": "NPS-004",
+    "account_id": "ACC-004",
+    "contact_id": "CON-015",
+    "response_date": "2026-08-12",
+    "score": 9,
+    "comment": "Great product. We keep running out of seats though."
+  },
+  {
+    "response_id": "NPS-005",
+    "account_id": "ACC-004",
+    "contact_id": "CON-017",
+    "response_date": "2026-04-15",
+    "score": 8,
+    "comment": null
+  },
+  {
+    "response_id": "NPS-006",
+    "account_id": "ACC-005",
+    "contact_id": "CON-019",
+    "response_date": "2026-08-13",
+    "score": 8,
+    "comment": "Support is quick. Lots of feature ideas from our engineers."
+  },
+  {
+    "response_id": "NPS-007",
+    "account_id": "ACC-006",
+    "contact_id": "CON-024",
+    "response_date": "2026-04-20",
+    "score": 7,
+    "comment": "Works fine for us."
+  },
+  {
+    "response_id": "NPS-008",
+    "account_id": "ACC-007",
+    "contact_id": "CON-027",
+    "response_date": "2026-08-18",
+    "score": 3,
+    "comment": "Too complicated for a small team."
+  },
+  {
+    "response_id": "NPS-009",
+    "account_id": "ACC-008",
+    "contact_id": "CON-029",
+    "response_date": "2026-08-12",
+    "score": 7,
+    "comment": null
+  },
+  {
+    "response_id": "NPS-010",
+    "account_id": "ACC-009",
+    "contact_id": "CON-032",
+    "response_date": "2026-04-17",
+    "score": 8,
+    "comment": null
+  },
+  {
+    "response_id": "NPS-011",
+    "account_id": "ACC-010",
+    "contact_id": "CON-035",
+    "response_date": "2026-08-19",
+    "score": 10,
+    "comment": "Timeline view is excellent."
+  },
+  {
+    "response_id": "NPS-012",
+    "account_id": "ACC-011",
+    "contact_id": "CON-040",
+    "response_date": "2026-04-13",
+    "score": 9,
+    "comment": "Timeline view is excellent."
+  },
+  {
+    "response_id": "NPS-013",
+    "account_id": "ACC-011",
+    "contact_id": "CON-040",
+    "response_date": "2026-08-15",
+    "score": 9,
+    "comment": null
+  },
+  {
+    "response_id": "NPS-014",
+    "account_id": "ACC-012",
+    "contact_id": "CON-045",
+    "response_date": "2026-04-16",
+    "score": 7,
+    "comment": null
+  },
+  {
+    "response_id": "NPS-015",
+    "account_id": "ACC-013",
+    "contact_id": "CON-048",
+    "response_date": "2026-04-13",
+    "score": 9,
+    "comment": null
+  },
+  {
+    "response_id": "NPS-016",
+    "account_id": "ACC-013",
+    "contact_id": "CON-048",
+    "response_date": "2026-08-17",
+    "score": 9,
+    "comment": null
+  },
+  {
+    "response_id": "NPS-017",
+    "account_id": "ACC-014",
+    "contact_id": "CON-051",
+    "response_date": "2026-04-19",
+    "score": 9,
+    "comment": null
+  },
+  {
+    "response_id": "NPS-018",
+    "account_id": "ACC-015",
+    "contact_id": "CON-053",
+    "response_date": "2026-04-15",
+    "score": 7,
+    "comment": "Onboarding new staff is easy."
+  },
+  {
+    "response_id": "NPS-019",
+    "account_id": "ACC-015",
+    "contact_id": "CON-053",
+    "response_date": "2026-08-18",
+    "score": 10,
+    "comment": "Does what we need."
+  },
+  {
+    "response_id": "NPS-020",
+    "account_id": "ACC-016",
+    "contact_id": "CON-056",
+    "response_date": "2026-08-17",
+    "score": 9,
+    "comment": null
+  },
+  {
+    "response_id": "NPS-021",
+    "account_id": "ACC-017",
+    "contact_id": "CON-061",
+    "response_date": "2026-08-14",
+    "score": 8,
+    "comment": null
+  },
+  {
+    "response_id": "NPS-022",
+    "account_id": "ACC-018",
+    "contact_id": "CON-064",
+    "response_date": "2026-08-19",
+    "score": 9,
+    "comment": "Onboarding new staff is easy."
+  },
+  {
+    "response_id": "NPS-023",
+    "account_id": "ACC-020",
+    "contact_id": "CON-071",
+    "response_date": "2026-04-18",
+    "score": 6,
+    "comment": "Reporting could be better."
+  },
+  {
+    "response_id": "NPS-024",
+    "account_id": "ACC-020",
+    "contact_id": "CON-071",
+    "response_date": "2026-08-15",
+    "score": 8,
+    "comment": "Great support team."
+  },
+  {
+    "response_id": "NPS-025",
+    "account_id": "ACC-021",
+    "contact_id": "CON-073",
+    "response_date": "2026-04-14",
+    "score": 7,
+    "comment": "Timeline view is excellent."
+  },
+  {
+    "response_id": "NPS-026",
+    "account_id": "ACC-021",
+    "contact_id": "CON-073",
+    "response_date": "2026-08-18",
+    "score": 6,
+    "comment": null
+  },
+  {
+    "response_id": "NPS-027",
+    "account_id": "ACC-022",
+    "contact_id": "CON-076",
+    "response_date": "2026-04-14",
+    "score": 9,
+    "comment": "Timeline view is excellent."
+  },
+  {
+    "response_id": "NPS-028",
+    "account_id": "ACC-022",
+    "contact_id": "CON-076",
+    "response_date": "2026-08-14",
+    "score": 9,
+    "comment": "Reporting could be better."
+  },
+  {
+    "response_id": "NPS-029",
+    "account_id": "ACC-023",
+    "contact_id": "CON-078",
+    "response_date": "2026-04-19",
+    "score": 7,
+    "comment": null
+  },
+  {
+    "response_id": "NPS-030",
+    "account_id": "ACC-023",
+    "contact_id": "CON-078",
+    "response_date": "2026-08-19",
+    "score": 6,
+    "comment": null
+  },
+  {
+    "response_id": "NPS-031",
+    "account_id": "ACC-024",
+    "contact_id": "CON-083",
+    "response_date": "2026-04-18",
+    "score": 9,
+    "comment": "A bit pricey for what we use."
+  },
+  {
+    "response_id": "NPS-032",
+    "account_id": "ACC-024",
+    "contact_id": "CON-083",
+    "response_date": "2026-08-16",
+    "score": 8,
+    "comment": "Does what we need."
+  },
+  {
+    "response_id": "NPS-033",
+    "account_id": "ACC-025",
+    "contact_id": "CON-087",
+    "response_date": "2026-08-16",
+    "score": 7,
+    "comment": "Reporting could be better."
+  },
+  {
+    "response_id": "NPS-034",
+    "account_id": "ACC-026",
+    "contact_id": "CON-089",
+    "response_date": "2026-04-17",
+    "score": 10,
+    "comment": "Onboarding new staff is easy."
+  },
+  {
+    "response_id": "NPS-035",
+    "account_id": "ACC-026",
+    "contact_id": "CON-089",
+    "response_date": "2026-08-13",
+    "score": 8,
+    "comment": "Timeline view is excellent."
+  },
+  {
+    "response_id": "NPS-036",
+    "account_id": "ACC-027",
+    "contact_id": "CON-093",
+    "response_date": "2026-08-14",
+    "score": 8,
+    "comment": "Does what we need."
+  },
+  {
+    "response_id": "NPS-037",
+    "account_id": "ACC-030",
+    "contact_id": "CON-101",
+    "response_date": "2026-04-13",
+    "score": 6,
+    "comment": "A bit pricey for what we use."
+  },
+  {
+    "response_id": "NPS-038",
+    "account_id": "ACC-030",
+    "contact_id": "CON-101",
+    "response_date": "2026-08-14",
+    "score": 7,
+    "comment": "Timeline view is excellent."
+  }
+]

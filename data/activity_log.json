@@ -1,0 +1,902 @@
+[
+  {
+    "activity_id": "ACT-0001",
+    "account_id": "ACC-003",
+    "date": "2026-03-03",
+    "type": "meeting",
+    "contact_id": "CON-011",
+    "summary": "Quarterly business review. Reviewed adoption and upcoming projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0002",
+    "account_id": "ACC-011",
+    "date": "2026-03-05",
+    "type": "email",
+    "contact_id": "CON-042",
+    "summary": "Sent monthly product update and webinar invite.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0003",
+    "account_id": "ACC-013",
+    "date": "2026-03-08",
+    "type": "email",
+    "contact_id": "CON-048",
+    "summary": "Shared help-centre articles on reporting dashboards.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0004",
+    "account_id": "ACC-001",
+    "date": "2026-03-10",
+    "type": "email",
+    "contact_id": "CON-001",
+    "summary": "Shared help-centre articles on reporting dashboards.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0005",
+    "account_id": "ACC-005",
+    "date": "2026-03-11",
+    "type": "email",
+    "contact_id": "CON-021",
+    "summary": "Shared help-centre articles on reporting dashboards.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0006",
+    "account_id": "ACC-006",
+    "date": "2026-03-11",
+    "type": "call",
+    "contact_id": "CON-024",
+    "summary": "Onboarding check-in. Teachers using it for term planning.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0007",
+    "account_id": "ACC-004",
+    "date": "2026-03-12",
+    "type": "email",
+    "contact_id": "CON-015",
+    "summary": "Shared help-centre articles on reporting dashboards.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0008",
+    "account_id": "ACC-016",
+    "date": "2026-03-13",
+    "type": "call",
+    "contact_id": "CON-058",
+    "summary": "Quick sync on onboarding two new team leads.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0009",
+    "account_id": "ACC-028",
+    "date": "2026-03-16",
+    "type": "meeting",
+    "contact_id": "CON-097",
+    "summary": "Quarterly business review. Reviewed adoption and upcoming projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0010",
+    "account_id": "ACC-018",
+    "date": "2026-03-17",
+    "type": "call",
+    "contact_id": "CON-064",
+    "summary": "Quick sync on onboarding two new team leads.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0011",
+    "account_id": "ACC-019",
+    "date": "2026-03-17",
+    "type": "email",
+    "contact_id": "CON-068",
+    "summary": "Shared tips on using templates for recurring projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0012",
+    "account_id": "ACC-001",
+    "date": "2026-03-19",
+    "type": "meeting",
+    "contact_id": "CON-001",
+    "summary": "QBR. Strong adoption across 4 depots. Champion mentioned possible reorg later in the year.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0013",
+    "account_id": "ACC-006",
+    "date": "2026-03-19",
+    "type": "call",
+    "contact_id": "CON-024",
+    "summary": "Check-in call. No major issues raised; team using timelines and resource views.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0014",
+    "account_id": "ACC-008",
+    "date": "2026-03-20",
+    "type": "email",
+    "contact_id": "CON-029",
+    "summary": "Shared tips on using templates for recurring projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0015",
+    "account_id": "ACC-009",
+    "date": "2026-03-20",
+    "type": "email",
+    "contact_id": "CON-032",
+    "summary": "Shared help-centre articles on reporting dashboards.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0016",
+    "account_id": "ACC-021",
+    "date": "2026-03-20",
+    "type": "email",
+    "contact_id": "CON-075",
+    "summary": "Sent monthly product update and webinar invite.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0017",
+    "account_id": "ACC-026",
+    "date": "2026-03-21",
+    "type": "call",
+    "contact_id": "CON-089",
+    "summary": "Check-in call. No major issues raised; team using timelines and resource views.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0018",
+    "account_id": "ACC-028",
+    "date": "2026-03-21",
+    "type": "meeting",
+    "contact_id": "CON-099",
+    "summary": "Quarterly business review. Reviewed adoption and upcoming projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0019",
+    "account_id": "ACC-005",
+    "date": "2026-03-22",
+    "type": "email",
+    "contact_id": "CON-019",
+    "summary": "Sent monthly product update and webinar invite.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0020",
+    "account_id": "ACC-008",
+    "date": "2026-03-23",
+    "type": "email",
+    "contact_id": "CON-031",
+    "summary": "Shared tips on using templates for recurring projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0021",
+    "account_id": "ACC-014",
+    "date": "2026-03-23",
+    "type": "email",
+    "contact_id": "CON-051",
+    "summary": "Sent monthly product update and webinar invite.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0022",
+    "account_id": "ACC-006",
+    "date": "2026-03-25",
+    "type": "meeting",
+    "contact_id": "CON-026",
+    "summary": "Quarterly business review. Reviewed adoption and upcoming projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0023",
+    "account_id": "ACC-001",
+    "date": "2026-03-30",
+    "type": "call",
+    "contact_id": "CON-003",
+    "summary": "Quick sync on onboarding two new team leads.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0024",
+    "account_id": "ACC-025",
+    "date": "2026-03-30",
+    "type": "call",
+    "contact_id": "CON-087",
+    "summary": "Quick sync on onboarding two new team leads.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0025",
+    "account_id": "ACC-004",
+    "date": "2026-04-01",
+    "type": "email",
+    "contact_id": "CON-017",
+    "summary": "Shared help-centre articles on reporting dashboards.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0026",
+    "account_id": "ACC-007",
+    "date": "2026-04-02",
+    "type": "call",
+    "contact_id": "CON-027",
+    "summary": "Check-in call. No major issues raised; team using timelines and resource views.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0027",
+    "account_id": "ACC-011",
+    "date": "2026-04-06",
+    "type": "email",
+    "contact_id": "CON-040",
+    "summary": "Sent monthly product update and webinar invite.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0028",
+    "account_id": "ACC-016",
+    "date": "2026-04-06",
+    "type": "meeting",
+    "contact_id": "CON-056",
+    "summary": "Quarterly business review. Reviewed adoption and upcoming projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0029",
+    "account_id": "ACC-026",
+    "date": "2026-04-06",
+    "type": "email",
+    "contact_id": "CON-091",
+    "summary": "Shared help-centre articles on reporting dashboards.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0030",
+    "account_id": "ACC-003",
+    "date": "2026-04-07",
+    "type": "email",
+    "contact_id": "CON-013",
+    "summary": "Sent monthly product update and webinar invite.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0031",
+    "account_id": "ACC-018",
+    "date": "2026-04-09",
+    "type": "email",
+    "contact_id": "CON-066",
+    "summary": "Shared tips on using templates for recurring projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0032",
+    "account_id": "ACC-020",
+    "date": "2026-04-09",
+    "type": "call",
+    "contact_id": "CON-071",
+    "summary": "Check-in call. No major issues raised; team using timelines and resource views.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0033",
+    "account_id": "ACC-025",
+    "date": "2026-04-09",
+    "type": "email",
+    "contact_id": "CON-087",
+    "summary": "Shared help-centre articles on reporting dashboards.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0034",
+    "account_id": "ACC-002",
+    "date": "2026-04-10",
+    "type": "call",
+    "contact_id": "CON-008",
+    "summary": "Quick sync on onboarding two new team leads.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0035",
+    "account_id": "ACC-005",
+    "date": "2026-04-13",
+    "type": "call",
+    "contact_id": "CON-021",
+    "summary": "Check-in call. No major issues raised; team using timelines and resource views.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0036",
+    "account_id": "ACC-013",
+    "date": "2026-04-13",
+    "type": "email",
+    "contact_id": "CON-048",
+    "summary": "Shared tips on using templates for recurring projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0037",
+    "account_id": "ACC-015",
+    "date": "2026-04-13",
+    "type": "email",
+    "contact_id": "CON-053",
+    "summary": "Shared tips on using templates for recurring projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0038",
+    "account_id": "ACC-020",
+    "date": "2026-04-13",
+    "type": "email",
+    "contact_id": "CON-071",
+    "summary": "Shared help-centre articles on reporting dashboards.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0039",
+    "account_id": "ACC-022",
+    "date": "2026-04-13",
+    "type": "call",
+    "contact_id": "CON-076",
+    "summary": "Quick sync on onboarding two new team leads.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0040",
+    "account_id": "ACC-014",
+    "date": "2026-04-16",
+    "type": "meeting",
+    "contact_id": "CON-051",
+    "summary": "Quarterly business review. Reviewed adoption and upcoming projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0041",
+    "account_id": "ACC-024",
+    "date": "2026-04-16",
+    "type": "email",
+    "contact_id": "CON-083",
+    "summary": "Shared tips on using templates for recurring projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0042",
+    "account_id": "ACC-019",
+    "date": "2026-04-18",
+    "type": "email",
+    "contact_id": "CON-070",
+    "summary": "Shared tips on using templates for recurring projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0043",
+    "account_id": "ACC-003",
+    "date": "2026-04-21",
+    "type": "email",
+    "contact_id": "CON-013",
+    "summary": "Shared tips on using templates for recurring projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0044",
+    "account_id": "ACC-019",
+    "date": "2026-04-24",
+    "type": "call",
+    "contact_id": "CON-070",
+    "summary": "Quick sync on onboarding two new team leads.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0045",
+    "account_id": "ACC-001",
+    "date": "2026-04-25",
+    "type": "email",
+    "contact_id": "CON-003",
+    "summary": "Sent monthly product update and webinar invite.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0046",
+    "account_id": "ACC-014",
+    "date": "2026-04-26",
+    "type": "email",
+    "contact_id": "CON-051",
+    "summary": "Shared help-centre articles on reporting dashboards.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0047",
+    "account_id": "ACC-024",
+    "date": "2026-04-26",
+    "type": "call",
+    "contact_id": "CON-085",
+    "summary": "Quick sync on onboarding two new team leads.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0048",
+    "account_id": "ACC-012",
+    "date": "2026-04-27",
+    "type": "call",
+    "contact_id": "CON-045",
+    "summary": "Quick sync on onboarding two new team leads.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0049",
+    "account_id": "ACC-030",
+    "date": "2026-04-27",
+    "type": "meeting",
+    "contact_id": "CON-101",
+    "summary": "Quarterly business review. Reviewed adoption and upcoming projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0050",
+    "account_id": "ACC-004",
+    "date": "2026-04-28",
+    "type": "email",
+    "contact_id": "CON-017",
+    "summary": "Shared tips on using templates for recurring projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0051",
+    "account_id": "ACC-008",
+    "date": "2026-04-29",
+    "type": "call",
+    "contact_id": "CON-031",
+    "summary": "Quick sync on onboarding two new team leads.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0052",
+    "account_id": "ACC-009",
+    "date": "2026-04-30",
+    "type": "email",
+    "contact_id": "CON-034",
+    "summary": "Shared help-centre articles on reporting dashboards.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0053",
+    "account_id": "ACC-013",
+    "date": "2026-04-30",
+    "type": "call",
+    "contact_id": "CON-048",
+    "summary": "Quick sync on onboarding two new team leads.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0054",
+    "account_id": "ACC-027",
+    "date": "2026-05-01",
+    "type": "meeting",
+    "contact_id": "CON-093",
+    "summary": "Quarterly business review. Reviewed adoption and upcoming projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0055",
+    "account_id": "ACC-006",
+    "date": "2026-05-02",
+    "type": "email",
+    "contact_id": "CON-024",
+    "summary": "Sent summer-term planning template.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0056",
+    "account_id": "ACC-010",
+    "date": "2026-05-04",
+    "type": "email",
+    "contact_id": "CON-037",
+    "summary": "Sent monthly product update and webinar invite.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0057",
+    "account_id": "ACC-012",
+    "date": "2026-05-04",
+    "type": "email",
+    "contact_id": "CON-047",
+    "summary": "Shared help-centre articles on reporting dashboards.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0058",
+    "account_id": "ACC-028",
+    "date": "2026-05-05",
+    "type": "call",
+    "contact_id": "CON-099",
+    "summary": "Check-in call. No major issues raised; team using timelines and resource views.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0059",
+    "account_id": "ACC-022",
+    "date": "2026-05-09",
+    "type": "email",
+    "contact_id": "CON-076",
+    "summary": "Shared tips on using templates for recurring projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0060",
+    "account_id": "ACC-003",
+    "date": "2026-05-12",
+    "type": "call",
+    "contact_id": "CON-011",
+    "summary": "Dana keen to renew; asked about multi-year discount.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0061",
+    "account_id": "ACC-026",
+    "date": "2026-05-13",
+    "type": "email",
+    "contact_id": "CON-091",
+    "summary": "Shared help-centre articles on reporting dashboards.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0062",
+    "account_id": "ACC-012",
+    "date": "2026-05-14",
+    "type": "call",
+    "contact_id": "CON-045",
+    "summary": "Quick sync on onboarding two new team leads.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0063",
+    "account_id": "ACC-017",
+    "date": "2026-05-14",
+    "type": "email",
+    "contact_id": "CON-061",
+    "summary": "Shared tips on using templates for recurring projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0064",
+    "account_id": "ACC-010",
+    "date": "2026-05-15",
+    "type": "email",
+    "contact_id": "CON-037",
+    "summary": "Sent monthly product update and webinar invite.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0065",
+    "account_id": "ACC-022",
+    "date": "2026-05-16",
+    "type": "email",
+    "contact_id": "CON-076",
+    "summary": "Shared help-centre articles on reporting dashboards.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0066",
+    "account_id": "ACC-009",
+    "date": "2026-05-19",
+    "type": "meeting",
+    "contact_id": "CON-034",
+    "summary": "Quarterly business review. Reviewed adoption and upcoming projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0067",
+    "account_id": "ACC-023",
+    "date": "2026-05-19",
+    "type": "call",
+    "contact_id": "CON-080",
+    "summary": "Check-in call. No major issues raised; team using timelines and resource views.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0068",
+    "account_id": "ACC-015",
+    "date": "2026-05-20",
+    "type": "email",
+    "contact_id": "CON-055",
+    "summary": "Shared tips on using templates for recurring projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0069",
+    "account_id": "ACC-001",
+    "date": "2026-06-18",
+    "type": "call",
+    "contact_id": "CON-001",
+    "summary": "Check-in. 'All good, busy season.' Declined to book next QBR for now.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0070",
+    "account_id": "ACC-005",
+    "date": "2026-07-02",
+    "type": "meeting",
+    "contact_id": "CON-020",
+    "summary": "QBR. Usage growing; engineering team files lots of feature requests. Very engaged.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0071",
+    "account_id": "ACC-002",
+    "date": "2026-07-09",
+    "type": "meeting",
+    "contact_id": "CON-007",
+    "summary": "Exec sponsor very positive. Planning rollout to Radiology and Outpatient teams in Q4.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0072",
+    "account_id": "ACC-007",
+    "date": "2026-07-16",
+    "type": "email",
+    "contact_id": "CON-027",
+    "summary": "Owner says the team finds it hard to use; offered a training session. No response.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0073",
+    "account_id": "ACC-010",
+    "date": "2026-08-18",
+    "type": "email",
+    "contact_id": "CON-035",
+    "summary": "Shared help-centre articles on reporting dashboards.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0074",
+    "account_id": "ACC-004",
+    "date": "2026-08-20",
+    "type": "call",
+    "contact_id": "CON-015",
+    "summary": "Champion asked about SSO and adding ~25 seats for a new studio. Said they'd 'circle back after budget planning'.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0075",
+    "account_id": "ACC-009",
+    "date": "2026-08-25",
+    "type": "call",
+    "contact_id": "CON-033",
+    "summary": "Renewal discussion. Verbal yes on same terms.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0076",
+    "account_id": "ACC-023",
+    "date": "2026-08-25",
+    "type": "email",
+    "contact_id": "CON-078",
+    "summary": "Sent monthly product update and webinar invite.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0077",
+    "account_id": "ACC-024",
+    "date": "2026-08-25",
+    "type": "email",
+    "contact_id": "CON-083",
+    "summary": "Shared tips on using templates for recurring projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0078",
+    "account_id": "ACC-013",
+    "date": "2026-08-31",
+    "type": "call",
+    "contact_id": "CON-048",
+    "summary": "Quick sync on onboarding two new team leads.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0079",
+    "account_id": "ACC-015",
+    "date": "2026-08-31",
+    "type": "email",
+    "contact_id": "CON-053",
+    "summary": "Sent monthly product update and webinar invite.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0080",
+    "account_id": "ACC-027",
+    "date": "2026-08-31",
+    "type": "email",
+    "contact_id": "CON-093",
+    "summary": "Shared tips on using templates for recurring projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0081",
+    "account_id": "ACC-008",
+    "date": "2026-09-08",
+    "type": "email",
+    "contact_id": "CON-029",
+    "summary": "Shared tips on using templates for recurring projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0082",
+    "account_id": "ACC-018",
+    "date": "2026-09-11",
+    "type": "meeting",
+    "contact_id": "CON-064",
+    "summary": "Quarterly business review. Reviewed adoption and upcoming projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0083",
+    "account_id": "ACC-003",
+    "date": "2026-09-15",
+    "type": "email",
+    "contact_id": "CON-011",
+    "summary": "Renewal kickoff email to Dana bounced. LinkedIn shows she left Corvid in August. No replacement contact identified yet.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0084",
+    "account_id": "ACC-017",
+    "date": "2026-09-17",
+    "type": "call",
+    "contact_id": "CON-061",
+    "summary": "Check-in. Mentioned their account 'got set up twice' when they changed legal entity.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0085",
+    "account_id": "ACC-019",
+    "date": "2026-09-19",
+    "type": "email",
+    "contact_id": "CON-068",
+    "summary": "Sent monthly product update and webinar invite.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0086",
+    "account_id": "ACC-022",
+    "date": "2026-09-19",
+    "type": "call",
+    "contact_id": "CON-076",
+    "summary": "Check-in call. No major issues raised; team using timelines and resource views.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0087",
+    "account_id": "ACC-026",
+    "date": "2026-09-19",
+    "type": "meeting",
+    "contact_id": "CON-089",
+    "summary": "Quarterly business review. Reviewed adoption and upcoming projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0088",
+    "account_id": "ACC-005",
+    "date": "2026-09-21",
+    "type": "call",
+    "contact_id": "CON-019",
+    "summary": "Walked through roadmap; customer happy with support response times.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0089",
+    "account_id": "ACC-009",
+    "date": "2026-09-22",
+    "type": "email",
+    "contact_id": "CON-032",
+    "summary": "Sent renewal order form for signature.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0090",
+    "account_id": "ACC-002",
+    "date": "2026-09-23",
+    "type": "email",
+    "contact_id": "CON-008",
+    "summary": "PM wrote in frustrated about sync failures with their EHR scheduling integration. Forwarded to support.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0091",
+    "account_id": "ACC-012",
+    "date": "2026-09-24",
+    "type": "meeting",
+    "contact_id": "CON-045",
+    "summary": "Quarterly business review. Reviewed adoption and upcoming projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0092",
+    "account_id": "ACC-014",
+    "date": "2026-09-24",
+    "type": "email",
+    "contact_id": "CON-051",
+    "summary": "Shared help-centre articles on reporting dashboards.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0093",
+    "account_id": "ACC-016",
+    "date": "2026-09-24",
+    "type": "meeting",
+    "contact_id": "CON-056",
+    "summary": "Quarterly business review. Reviewed adoption and upcoming projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0094",
+    "account_id": "ACC-020",
+    "date": "2026-09-24",
+    "type": "call",
+    "contact_id": "CON-071",
+    "summary": "Check-in call. No major issues raised; team using timelines and resource views.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0095",
+    "account_id": "ACC-030",
+    "date": "2026-09-24",
+    "type": "email",
+    "contact_id": "CON-101",
+    "summary": "Shared help-centre articles on reporting dashboards.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0096",
+    "account_id": "ACC-004",
+    "date": "2026-09-30",
+    "type": "email",
+    "contact_id": "CON-015",
+    "summary": "Sent Enterprise plan one-pager. No reply yet.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0097",
+    "account_id": "ACC-011",
+    "date": "2026-10-01",
+    "type": "call",
+    "contact_id": "CON-040",
+    "summary": "Quick sync on onboarding two new team leads.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0098",
+    "account_id": "ACC-021",
+    "date": "2026-10-03",
+    "type": "email",
+    "contact_id": "CON-073",
+    "summary": "Sent monthly product update and webinar invite.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0099",
+    "account_id": "ACC-025",
+    "date": "2026-10-03",
+    "type": "meeting",
+    "contact_id": "CON-087",
+    "summary": "Quarterly business review. Reviewed adoption and upcoming projects.",
+    "logged_by": "J. Moreau"
+  },
+  {
+    "activity_id": "ACT-0100",
+    "account_id": "ACC-028",
+    "date": "2026-10-06",
+    "type": "email",
+    "contact_id": "CON-097",
+    "summary": "Sent monthly product update and webinar invite.",
+    "logged_by": "J. Moreau"
+  }
+]
